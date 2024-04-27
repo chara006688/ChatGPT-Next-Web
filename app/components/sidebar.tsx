@@ -155,10 +155,24 @@ export function SideBar(props: { className?: string }) {
     >
       <div className={styles["sidebar-header"]} data-tauri-drag-region>
         <div className={styles["sidebar-title"]} data-tauri-drag-region>
-          NextChat
+          Free-Chat
         </div>
         <div className={styles["sidebar-sub-title"]}>
-          Build your own AI assistant.
+          <p>
+            本网站永久免费
+            <br>
+            访问密码为空
+            <br>
+            网站成本平均一人一月大概5元，只要每月捐五元 网站就能活下去
+            <br>
+            就算不捐，站长也会自费运营网站！
+            <br>
+          </p>
+          <li>PS: 所有捐赠将用于维护免费站运行</li>
+          <li>收藏导航站不迷路: <a data-v-ed0a1118="" target="_blank" href="https://www.dfcsf.asia/" style="color: rgb(41, 121, 255);">https://www.dfcsf.asia</a></li>
+          <li>禁止生成、发布、传播任何违法、违规内容</li>
+          <li>爱发电地址：<a data-v-ed0a1118="" target="_blank" href="https://afdian.net/a/free-gpt" style="color: rgb(41, 121, 255);">https://afdian.net/a/free-gpt</a></li>
+          <li>可以进QQ群体验更多功能的低价版chatgpt: 667311806</li>
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
