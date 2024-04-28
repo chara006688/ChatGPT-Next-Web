@@ -158,7 +158,7 @@ export function SideBar(props: { className?: string }) {
           Free-Chat
         </div>
         <div className={styles["sidebar-sub-title"]}>
-          永久免费体验ChatGPT <br><br>本网站永久免费 <br>访问密码为空 <br>网站成本平均一人一月大概5元，只要每月捐五元 网站就能活下去 <br>就算不捐，站长也会自费运营网站！<br>PS: 所有捐赠将用于维护免费站运行 <br>收藏导航站不迷路: [https://www.dfcsf.asia](https://www.dfcsf.asia) <br>禁止生成、发布、传播任何违法、违规内容 <br>爱发电地址：[https://afdian.net/a/free-gpt](https://afdian.net/a/free-gpt) <br>可以进QQ群体验更多功能的低价版chatgpt: 667311806
+          永久免费体验ChatGPT
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
