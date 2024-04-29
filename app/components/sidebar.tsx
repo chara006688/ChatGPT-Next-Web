@@ -158,7 +158,7 @@ export function SideBar(props: { className?: string }) {
           Free-Chat
         </div>
         <div className={styles["sidebar-sub-title"]}>
-          永久免费体验ChatGPT
+          由于网站被逆向，请加群获取访问密码:667311806（不收费）
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
